@@ -15,8 +15,6 @@ Created on Tue Mar 19 11:31:44 2019
 #    "Rigidity percolation uncovers the structural basis of     #
 #    embryonic tissue phase transitions"                        #
 #    Accepted in Cell (2021)                                    #
-#    The author wants to thank Réka Kórei for early versions    #
-#    of the deformation functions                               #
 #                                                               #
 #################################################################
 
