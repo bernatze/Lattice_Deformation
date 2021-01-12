@@ -1,10 +1,13 @@
  
 Coded by Bernat Corominas-Murtra at the IST Austria (2020)
  
-Details of the models and motivation are found in:   
+Details of the models and motivation are found in: 
+
   N. I. Petridou, B. Corominas-Murtra, C.-P. Heisenberg and E. Hannezo
+  
   "Rigidity percolation uncovers the structural basis of embryonic tissue phase transitions"
   Accepted in Cell (2021) 
+  
 The author wants to thank Réka Kórei for early versions of the deformation functions
  
 ********Contents*********
@@ -14,8 +17,11 @@ The author wants to thank Réka Kórei for early versions of the deformation fun
 Lattice.py 
 
 Constructing triangluar lattices with side length L and parameters:
+
     Removing a fraction of nodes
+
     Removing a fraction of links/obtaining a desired average connectivity
+
     Removing links in a correlated way --see paper for motivation and details
 
 Deformation.py
