@@ -1,12 +1,7 @@
  
-Coded by Bernat Corominas-Murtra at the IST Austria (2020)
- 
-Details of the models and motivation are found in: 
 
-  N. I. Petridou, B. Corominas-Murtra, C.-P. Heisenberg and E. Hannezo
-  
-  "Rigidity percolation uncovers the structural basis of embryonic tissue phase transitions"
-  Accepted in Cell (2021) 
+
+Python scripts coded by Bernat Corominas-Murtra at the IST Austria (2020)
   
 The author wants to thank Réka Kórei for early versions of the deformation functions
  
