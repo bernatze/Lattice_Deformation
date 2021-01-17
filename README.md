@@ -24,7 +24,8 @@ Constructing triangluar lattices with side length L and parameters:
 
     Removing links in a correlated way --see paper for motivation and details
 
-Deformation.py
+
+    Deformation.py
 
 Implements a deformation of a triangular lattice made of springs with elastic constant k 
 constructed using Lattice.py:
