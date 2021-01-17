@@ -1,19 +1,19 @@
  
-#Contents
+# Contents
 
 Python scripts coded by Bernat Corominas-Murtra at the IST Austria (2020)
   
 The author wants to thank Réka Kórei for early versions of the deformation functions
  
-##Micropipette aspiration analysis
+## Micropipette aspiration analysis
 
 PipetteAssayMeasurement.txt
 
-Script for analysis of the micropipette aspiration time lapse movies to acquire deformation rates
+Standard ImageJ script for analysis of the micropipette aspiration time lapse movies to acquire deformation rates.
 
-##Python scripts
+## Python scripts
 
-###Headers:
+### Headers:
 
 Lattice.py 
 
@@ -36,7 +36,7 @@ constructed using Lattice.py:
 
     Energy release due to spontaneous breaking/healing of springs --simulating viscosity, see paper
 
-###Example
+### Example
 
 Linear_Deformation_Shear.py
 
