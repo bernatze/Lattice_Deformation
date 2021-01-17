@@ -14,7 +14,7 @@ Standard ImageJ script for analysis of the micropipette aspiration time lapse mo
 
 ### Headers:
 
-Lattice.py 
+    Lattice.py 
 
 Constructing triangluar lattices with side length L and parameters:
 
@@ -37,7 +37,7 @@ constructed using Lattice.py:
 
 ### Example
 
-Linear_Deformation_Shear.py
+    Linear_Deformation_Shear.py
 
 It constructs a lattice using Lattice.py. Using Deformation.py, it returns 
 the transmission of strain through the whole network of springs due to a small shear deformation 
