@@ -1,15 +1,14 @@
  
 # Contents
 
-Python scripts coded by Bernat Corominas-Murtra at the IST Austria (2020)
-  
-The author wants to thank Réka Kórei for early versions of the deformation functions
+Python scripts coded by Bernat Corominas-Murtra at the IST Austria (2020).
+The author wants to thank Réka Kórei for early versions of the deformation functions.
  
 ## Micropipette aspiration analysis
 
-PipetteAssayMeasurement.txt
-
 Standard ImageJ script for analysis of the micropipette aspiration time lapse movies to acquire deformation rates.
+
+    PipetteAssayMeasurement.txt
 
 ## Python scripts
 
