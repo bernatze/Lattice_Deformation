@@ -12,7 +12,7 @@ Standard ImageJ script for analysis of the micropipette aspiration time lapse mo
 
 ## Python scripts
 
-### Headers:
+### Header 1:
 
     Lattice.py 
 
@@ -24,6 +24,7 @@ Constructing triangluar lattices with side length L and parameters:
 
     Removing links in a correlated way --see paper for motivation and details
 
+### Header 2:
 
     Deformation.py
 
